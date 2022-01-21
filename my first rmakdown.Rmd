@@ -1,0 +1,20 @@
+---
+title: "my first rmarkdown"
+author: "catherine"
+date: "1/20/2022"
+output: html_document
+---
+# Types of soil
+* clay
+* loam
+* sand\
+i love coding
+```{r}
+a<-c(2,4)
+sum(a)
+```
+
+
+```{r}
+print("hello world!")
+```
